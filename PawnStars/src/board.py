@@ -10,7 +10,7 @@ class Board:
 
     def __init__(self):
         self.squares = [[0, 0, 0, 0, 0, 0, 0, 0] for col in range(COLS)] # creates a list of 8 zeros for each column
-        self.last_move = None
+        self.last_move = None #to undo moves if necessary
         self._create()
         self._add_pieces("white")
         self._add_pieces("black")
