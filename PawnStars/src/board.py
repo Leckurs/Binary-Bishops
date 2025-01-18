@@ -44,7 +44,7 @@ class Board:
             for col in range(COLS):
                 if temp_board.squares[row][col].has_enemy_piece(piece.color):
                     p = temp_board.squares[row][col].piece
-                    temp_board.calc_moves(p, row, col, bool=False)
+                    temp_board.calc_moves(p, row, col, bool=False) #to avoid infinite loops
                     for m in p.moves:
                         if isinstance(m.final.piece, King):
                             return True
