@@ -11,7 +11,7 @@ Main requirements included learning the python language and using the github.
 <br>
 
 *1. What have we laenred?*
-<br> *3. WHAT DIFFICULTIES DID WE FACE ?*
+<br> *2. WHAT DIFFICULTIES DID WE FACE ?*
 
 MONISHA SHIL>> This project work forced me to learn python language from the scratch making the topics like binary/linear search, creating shapes using for loop and many other basic topics very clear.
 >> Not having any previous knowledge about the programming language consumed a lot of time just to learn the language and not having ever worked on github led to meeting up in person for the coding.
