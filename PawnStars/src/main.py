@@ -1,5 +1,3 @@
-from mimetypes import inited
-
 import pygame
 import sys
 
