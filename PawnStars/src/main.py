@@ -14,6 +14,7 @@ class Main:
         pygame.init()
         self.screen = pygame.display.set_mode( (WIDTH, HEIGHT) )
         pygame.display.set_caption('Chess')
+        pygame.display.set_icon(pygame.image.load('assets/images/logo.png'))
         self.game = Game()
 
     def mainloop(self):
