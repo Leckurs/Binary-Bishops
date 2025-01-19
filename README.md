@@ -2,8 +2,8 @@ A group project to create a simple chess game using the programming language Pyt
 
 Team members:
 
-Walid Nakhal 90284610
-Monisha Shil 29418304
+Walid Nakhal 90284610 <br>
+Monisha Shil 29418304 <br>
 Kritika Chaudhary 83404886
 
 The game features interactive controls, which are:
