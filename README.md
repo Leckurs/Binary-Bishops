@@ -10,7 +10,7 @@ A group project to create a simple chess game using the programming language pyt
 Main requirements included learning the python language and using the github.
 <br>
 
-*1. What have we laenred?*
+*1. WHAT HAVE WE LEARNED?*
 <br> *2. WHAT DIFFICULTIES DID WE FACE ?*
 
 MONISHA SHIL>> This project work forced me to learn python language from the scratch making the topics like binary/linear search, creating shapes using for loop and many other basic topics very clear.
